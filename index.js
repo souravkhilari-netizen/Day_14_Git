@@ -5,6 +5,7 @@ function greet(name) {
 }
 
 const userName = "World";
+consolelog("UserName")
 console.log(greet(userName));
 
 const numbers = [1, 2, 3, 4, 5];
