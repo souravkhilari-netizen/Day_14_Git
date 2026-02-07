@@ -4,7 +4,7 @@ function greet(name) {
     return `Hello1, ${name}!`;
 }
 
-const userName = "World1";
+const userName = "World";
 consolelog("UserName")
 console.log(greet(userName));
 
