@@ -1,10 +1,11 @@
 // Basic JavaScript example
 
 function greet(name) {
-    return `Hello2, ${name}!`;
+    return `Hello1, ${name}!`;
 }
 
-const userName = "World";
+const userName = "World1";
+consolelog("UserName")
 console.log(greet(userName));
 
 const numbers = [1, 2, 3, 4, 5];
